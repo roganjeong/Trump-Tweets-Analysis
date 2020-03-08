@@ -2,16 +2,15 @@
 the analysis of the influence of Trump's tweets
 
 # Introduction 
-Trump's tweets are known for the dramatic change they cause to the international economy. There are even archieves of Trump's tweets, which I utilized on the parts of my analysis. 
+Trump's tweets are known for the dramatic change they cause to the international economy. There are even archieves ( [click here to fo one of the archieves](http://www.trumptwitterarchive.com/) ) of Trump's tweets, which I utilized on the parts of my analysis. 
 
+# Details
 
-## Analysis Details
+## Analysis
 - **Language :** Python
 - **Version :** 3.7.4
 - **Tool :** JupyterLab
 
-## Models Used
+## Models
 
-## Data Collection
-
-## 
+## Data
